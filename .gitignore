@@ -1,0 +1,21 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Unreal Engine temporary & intermediate directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local backup & scratch files
+*.bak
+*.tmp
